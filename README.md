@@ -22,9 +22,9 @@ In this project, I'm trying to explore a dataset of Riyadh's restaurants and ans
 
 **1- What are the most common categories of restaurants in Riyadh?**
 
-**2- How do restaurant prices change across different regions of Riyadh??**
+**2- How do restaurant prices change across different regions of Riyadh?**
 
-**3- What's the most correlated variable to restaurant rating???**
+**3- What's the most correlated variable to restaurant rating?**
 
 # File Descriptions
 

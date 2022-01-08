@@ -32,7 +32,7 @@ In this project, I'm trying to explore a dataset of Riyadh's restaurants and ans
 The jupyter notebook file answers the questions above. It provides the dataset descriptions and the preprocessing steps. It shows how the questions are answered and visualization of the results.
 
 # Results
-You can find the results in this blog, with visuals and descriptions.
+You can find the results in this [blog](https://medium.com/@lamyamoib/an-overview-of-foursquare-data-of-riyadh-restaurants-ed82db277d9b), with visuals and descriptions.
 
 # Licensing, Authors, Acknowledgements, etc.
 

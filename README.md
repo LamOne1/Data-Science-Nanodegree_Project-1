@@ -15,17 +15,17 @@ You need to install Python3 and the following packages (it's recommended to use 
 - seaborn
 - matplotlib
 
-Also, it's recommended to use Jupyter notebook to run the code.
+Also, I recommend you to use Jupyter notebook to run the code.
 # Project Motivation
 
-Riyadh city, The capital of Saudia Arabia, has shown a noticeable growth in restaurants and coffee shops over the last years, as Eating out and shopping are considered one of the main entertainments activities in the city.
+Riyadh city, The capital of Saudi Arabia, has shown a noticeable growth in restaurants and coffee shops over the last years, as Eating out and shopping are considered one of the main entertainments activities in the city.
 In this project, I'm trying to explore a dataset of Riyadh's restaurants and answering three questions:
 
-**1- What are the most common categories of restaurants in Riyadh?**
+**1- What is the most common category of restaurants in Riyadh?**
 
-**2- How do restaurant prices change across different regions of Riyadh?**
+**2- How do restaurant prices bary across different regions of Riyadh?**
 
-**3- What's the most correlated variable to restaurant rating?**
+**3- What's the most correlated variable to the restaurant rating?**
 
 # File Descriptions
 
